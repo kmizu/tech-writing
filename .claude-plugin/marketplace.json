@@ -1,0 +1,13 @@
+{
+  "name": "tech-writing",
+  "description": "鹿野さん（k16shikano）作の日本語ライティング用スキルをまとめたマーケットプレイス。",
+  "owner": { "name": "kmizu" },
+  "plugins": [
+    {
+      "name": "tech-writing",
+      "source": "./",
+      "description": "日本語技術文書の文章規範（japanese-tech-writing）と認知リズムの規範（cognitive-rhythm-writing）。スキル間の依存ごと一括インストール。",
+      "category": "productivity"
+    }
+  ]
+}
