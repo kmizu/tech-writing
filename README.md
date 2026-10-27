@@ -14,6 +14,17 @@
 
 ライセンスは鹿野さんの宣言（[License for my snippet on gist](https://gist.github.com/k16shikano/67625f2a7d96e3bbdfae8d571a936063)）に従い、public gist に適用される Unlicense です。全文は [LICENSE](LICENSE) にあります。
 
+このプラグインとしてまとめた（パッケージングした）のは [kmizu](https://github.com/kmizu) です。
+
+## 問い合わせ・不具合報告・免責
+
+このプラグインの利用に関する質問、不具合の報告、要望は、鹿野さんではなく、**このリポジトリの [Issues](https://github.com/kmizu/tech-writing/issues)** に送ってください。鹿野さんに問い合わせないようお願いします。
+
+- プラグインの構成、インストール、同期スクリプト、上流からの差分に起因する問題は、まとめた kmizu が窓口になります。
+- スキルの規範そのものへの意見も、まずこのリポジトリに寄せてください。上流への反映が必要なら、kmizu が判断します。
+- 本プラグインは現状有姿（AS IS）で提供し、利用によって生じたいかなる損害にも責任を負いません。これは [LICENSE](LICENSE) の免責条項のとおりです。
+- スキルは鹿野さんが公開した gist を元にしていますが、鹿野さんがこのプラグインを監修・保証しているわけではありません。
+
 ## なぜプラグインにしたか
 
 `cognitive-rhythm-writing` は作業前に `japanese-tech-writing` を読む前提で書かれており、`../japanese-tech-writing/SKILL.md` を相対パスで参照しています。
