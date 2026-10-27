@@ -38,6 +38,14 @@ gist を1つずつ手でコピーすると、依存先を入れ忘れたり、�
 /plugin install tech-writing@tech-writing
 ```
 
+Codex でも同じスキルを使えます（`.codex-plugin/` と `.agents/plugins/` を同梱）。
+
+```
+codex plugin marketplace add kmizu/tech-writing
+```
+
+そのあと Codex の `/plugins` から `tech-writing` をインストールしてください。
+
 インストール後は、日本語で技術文書を書く・推敲するときに `japanese-tech-writing` が、読み物として読ませたい文章を書く・直すときに `cognitive-rhythm-writing` が、それぞれスキルの description に従って呼び出されます。
 
 ## 上流との差分

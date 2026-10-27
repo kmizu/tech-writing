@@ -1,0 +1,20 @@
+{
+  "name": "tech-writing",
+  "version": "0.1.0",
+  "description": "日本語の技術文書・書籍原稿の文章規範（japanese-tech-writing）と、読み物としての緩急を設計する規範（cognitive-rhythm-writing）。鹿野さん（k16shikano / Keiichiro Shikano）のスキルを、依存関係ごとまとめたもの。",
+  "author": { "name": "kmizu" },
+  "homepage": "https://github.com/kmizu/tech-writing",
+  "repository": "https://github.com/kmizu/tech-writing",
+  "license": "Unlicense",
+  "keywords": ["writing", "japanese", "technical-writing", "editing", "style-guide"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Tech Writing (Japanese)",
+    "shortDescription": "日本語の技術文書を書く・推敲するための文章規範。",
+    "longDescription": "鹿野さん（k16shikano）作の japanese-tech-writing と cognitive-rhythm-writing を、スキル間の依存ごとまとめたプラグイン。",
+    "developerName": "kmizu",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "japanese-tech-writing の規範に従って、この日本語の技術文書を推敲して。"
+  }
+}
